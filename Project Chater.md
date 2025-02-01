@@ -53,7 +53,9 @@ The DineOps ERP System (SaaS) is designed to streamline and optimize restaurant 
 ## 4. Project Scope
 **In-Scope**:  
 - Development of core modules (POS, Inventory, HR, Accounting, CRM) 
-- APIs for third-party integrations (e.g., payment gateways, accounting software).  
+- SaaS architecture for multi-tenant deployment
+- RESTful API for integrations
+- Mobile-friendly UI/UX design  
 
 **Out-of-Scope**:  
 - Custom hardware (client provides existing devices).  
@@ -69,9 +71,9 @@ The DineOps ERP System (SaaS) is designed to streamline and optimize restaurant 
 
 **Signatures**: [Client], [Developer]  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMDI5Mjc3OSwtNzQyMDAyNTIxLDE5ND
-Q0OTExMDYsLTE0NjcxMTc3NDIsLTIxMzkwMTM5ODIsMTIxNzc5
-OTg2OSwxOTk1NDc0ODMzLDIyMzAxMTgyMSwtODE4MTIyOTAzLC
-0xMDU2MjIyMjYxLC05NTMwNzM1OTQsLTE5NTg1NjYzMzVdfQ==
-
+eyJoaXN0b3J5IjpbMjA4MTYzNjE1NiwxMjAwMjkyNzc5LC03ND
+IwMDI1MjEsMTk0NDQ5MTEwNiwtMTQ2NzExNzc0MiwtMjEzOTAx
+Mzk4MiwxMjE3Nzk5ODY5LDE5OTU0NzQ4MzMsMjIzMDExODIxLC
+04MTgxMjI5MDMsLTEwNTYyMjIyNjEsLTk1MzA3MzU5NCwtMTk1
+ODU2NjMzNV19
 -->
