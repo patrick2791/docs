@@ -26,17 +26,22 @@ The DineOps ERP System (SaaS) is designed to streamline and optimize restaurant 
 
 • **Modules:**
 
-•  **Point of Sale (POS):** Quick billing, order tracking, split bills
-
-•  **Inventory Management:** Stock tracking, supplier management, auto-reordering
-
-•  **Human Resource Management:** Staff scheduling, payroll, performance tracking
-
-•  **Accounting & Finance:** Expense tracking, profit/loss analysis, tax management
-
-•  **Customer Relationship Management (CRM):** Loyalty programs, feedback management
-
-•  **Analytics & Reporting:** Sales reports, KPIs, forecasting tools
+	 •  Point of Sale (POS):** Quick billing, order tracking, split
+   bills
+   
+   •  **Inventory Management:** Stock tracking, supplier management,
+   auto-reordering
+   
+   •  **Human Resource Management:** Staff scheduling, payroll,
+   performance tracking
+   
+   •  **Accounting & Finance:** Expense tracking, profit/loss analysis,
+   tax management
+   
+   •  **Customer Relationship Management (CRM):** Loyalty programs,
+   feedback management
+   
+   •  **Analytics & Reporting:** Sales reports, KPIs, forecasting tools
 
 • **Technical Requirements:**
 
@@ -69,7 +74,7 @@ The DineOps ERP System (SaaS) is designed to streamline and optimize restaurant 
 
 **Signatures**: [Client], [Developer]  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg3NDY2MTc2LDEyMTc3OTk4NjksMTk5NT
-Q3NDgzMywyMjMwMTE4MjEsLTgxODEyMjkwMywtMTA1NjIyMjI2
-MSwtOTUzMDczNTk0LC0xOTU4NTY2MzM1XX0=
+eyJoaXN0b3J5IjpbLTIxMzkwMTM5ODIsMTIxNzc5OTg2OSwxOT
+k1NDc0ODMzLDIyMzAxMTgyMSwtODE4MTIyOTAzLC0xMDU2MjIy
+MjYxLC05NTMwNzM1OTQsLTE5NTg1NjYzMzVdfQ==
 -->
