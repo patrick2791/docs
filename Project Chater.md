@@ -40,13 +40,13 @@ The DineOps ERP System (SaaS) is designed to streamline and optimize restaurant 
 
 • **Technical Requirements:**
 
-•  Cloud-based architecture (AWS/Azure/GCP)
+	•  Cloud-based architecture (AWS/Azure/GCP)
 
-•  API integrations with third-party services (payment gateways, delivery apps)
+	•  API integrations with third-party services (payment gateways, delivery apps)
 
-•  Responsive UI/UX for web and mobile platforms
+	•  Responsive UI/UX for web and mobile platforms
 
-•  Multi-language and multi-currency support
+	•  Multi-language and multi-currency support
 
 •  **Security:** GDPR compliance, role-based access control, encrypted data storage
 
@@ -69,8 +69,8 @@ The DineOps ERP System (SaaS) is designed to streamline and optimize restaurant 
 
 **Signatures**: [Client], [Developer]  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjcxMTc3NDIsLTIxMzkwMTM5ODIsMT
-IxNzc5OTg2OSwxOTk1NDc0ODMzLDIyMzAxMTgyMSwtODE4MTIy
-OTAzLC0xMDU2MjIyMjYxLC05NTMwNzM1OTQsLTE5NTg1NjYzMz
-VdfQ==
+eyJoaXN0b3J5IjpbMTk0NDQ5MTEwNiwtMTQ2NzExNzc0MiwtMj
+EzOTAxMzk4MiwxMjE3Nzk5ODY5LDE5OTU0NzQ4MzMsMjIzMDEx
+ODIxLC04MTgxMjI5MDMsLTEwNTYyMjIyNjEsLTk1MzA3MzU5NC
+wtMTk1ODU2NjMzNV19
 -->
