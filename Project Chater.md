@@ -20,6 +20,8 @@ The DineOps ERP System (SaaS) is designed to streamline and optimize restaurant 
 - Provide real-time data analytics and reporting
 - Integrating
 
+
+
 **In-Scope**:  
 - Core modules: POS, Inventory, CRM, Analytics.  
 - APIs for third-party integrations (e.g., payment gateways, accounting software).  
@@ -38,6 +40,7 @@ The DineOps ERP System (SaaS) is designed to streamline and optimize restaurant 
 
 **Signatures**: [Client], [Developer]  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIzMDExODIxLC04MTgxMjI5MDMsLTEwNT
-YyMjIyNjEsLTk1MzA3MzU5NCwtMTk1ODU2NjMzNV19
+eyJoaXN0b3J5IjpbMTk5NTQ3NDgzMywyMjMwMTE4MjEsLTgxOD
+EyMjkwMywtMTA1NjIyMjI2MSwtOTUzMDczNTk0LC0xOTU4NTY2
+MzM1XX0=
 -->
