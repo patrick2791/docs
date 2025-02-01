@@ -50,6 +50,7 @@ The DineOps ERP System (SaaS) is designed to streamline and optimize restaurant 
 
 •  **Security:** GDPR compliance, role-based access control, encrypted data storage
 
+## 4. Project Scope
 **In-Scope**:  
 - Core modules: POS, Inventory, CRM, Analytics.  
 - APIs for third-party integrations (e.g., payment gateways, accounting software).  
@@ -68,8 +69,8 @@ The DineOps ERP System (SaaS) is designed to streamline and optimize restaurant 
 
 **Signatures**: [Client], [Developer]  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM1NjE3Mjk2LDE5NDQ0OTExMDYsLTE0Nj
-cxMTc3NDIsLTIxMzkwMTM5ODIsMTIxNzc5OTg2OSwxOTk1NDc0
-ODMzLDIyMzAxMTgyMSwtODE4MTIyOTAzLC0xMDU2MjIyMjYxLC
-05NTMwNzM1OTQsLTE5NTg1NjYzMzVdfQ==
+eyJoaXN0b3J5IjpbLTc0MjAwMjUyMSwxOTQ0NDkxMTA2LC0xND
+Y3MTE3NzQyLC0yMTM5MDEzOTgyLDEyMTc3OTk4NjksMTk5NTQ3
+NDgzMywyMjMwMTE4MjEsLTgxODEyMjkwMywtMTA1NjIyMjI2MS
+wtOTUzMDczNTk0LC0xOTU4NTY2MzM1XX0=
 -->
