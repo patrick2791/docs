@@ -14,8 +14,11 @@ The DineOps ERP System (SaaS) is designed to streamline and optimize restaurant 
 •  Provide real-time analytics for better decision-making
 
 ## 2. Project Objectives
-- Replace manual processes (orders, inventory, staff scheduling).  
+- Automate core restaurant functions: POS, inventory, HR, accounting, CRM  
 - Design for scalability (multi-tenant SaaS architecture).  
+- Ensure mobile compatibility for on-the-go management
+- Provide real-time data analytics and reporting
+- Integ
 
 **In-Scope**:  
 - Core modules: POS, Inventory, CRM, Analytics.  
@@ -35,6 +38,6 @@ The DineOps ERP System (SaaS) is designed to streamline and optimize restaurant 
 
 **Signatures**: [Client], [Developer]  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxODEyMjkwMywtMTA1NjIyMjI2MSwtOT
-UzMDczNTk0LC0xOTU4NTY2MzM1XX0=
+eyJoaXN0b3J5IjpbLTk2NzQ0OTQ1NiwtODE4MTIyOTAzLC0xMD
+U2MjIyMjYxLC05NTMwNzM1OTQsLTE5NTg1NjYzMzVdfQ==
 -->
